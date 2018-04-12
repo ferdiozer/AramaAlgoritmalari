@@ -1,0 +1,12 @@
+D:\C#\WinFORM\Okul için yaptığım şeyler\ÖDEVLER\2018 Nusret Hoca DERSI\AramaAlgoritmalari\AramaAlgoritmalari\bin\Debug\AramaAlgoritma.exe.config
+D:\C#\WinFORM\Okul için yaptığım şeyler\ÖDEVLER\2018 Nusret Hoca DERSI\AramaAlgoritmalari\AramaAlgoritmalari\bin\Debug\AramaAlgoritma.exe
+D:\C#\WinFORM\Okul için yaptığım şeyler\ÖDEVLER\2018 Nusret Hoca DERSI\AramaAlgoritmalari\AramaAlgoritmalari\bin\Debug\AramaAlgoritma.pdb
+D:\C#\WinFORM\Okul için yaptığım şeyler\ÖDEVLER\2018 Nusret Hoca DERSI\AramaAlgoritmalari\AramaAlgoritmalari\obj\Debug\AramaAlgoritma.Properties.Resources.resources
+D:\C#\WinFORM\Okul için yaptığım şeyler\ÖDEVLER\2018 Nusret Hoca DERSI\AramaAlgoritmalari\AramaAlgoritmalari\obj\Debug\AramaAlgoritma.Animasyon.resources
+D:\C#\WinFORM\Okul için yaptığım şeyler\ÖDEVLER\2018 Nusret Hoca DERSI\AramaAlgoritmalari\AramaAlgoritmalari\obj\Debug\AramaAlgoritma.AnimasyonAyar.resources
+D:\C#\WinFORM\Okul için yaptığım şeyler\ÖDEVLER\2018 Nusret Hoca DERSI\AramaAlgoritmalari\AramaAlgoritmalari\obj\Debug\AramaAlgoritma.Form1.resources
+D:\C#\WinFORM\Okul için yaptığım şeyler\ÖDEVLER\2018 Nusret Hoca DERSI\AramaAlgoritmalari\AramaAlgoritmalari\obj\Debug\AramaAlgoritma.csproj.GenerateResource.Cache
+D:\C#\WinFORM\Okul için yaptığım şeyler\ÖDEVLER\2018 Nusret Hoca DERSI\AramaAlgoritmalari\AramaAlgoritmalari\obj\Debug\AramaAlgoritma.csproj.CoreCompileInputs.cache
+D:\C#\WinFORM\Okul için yaptığım şeyler\ÖDEVLER\2018 Nusret Hoca DERSI\AramaAlgoritmalari\AramaAlgoritmalari\obj\Debug\AramaAlgoritma.exe
+D:\C#\WinFORM\Okul için yaptığım şeyler\ÖDEVLER\2018 Nusret Hoca DERSI\AramaAlgoritmalari\AramaAlgoritmalari\obj\Debug\AramaAlgoritma.pdb
+D:\C#\WinFORM\Okul için yaptığım şeyler\ÖDEVLER\2018 Nusret Hoca DERSI\AramaAlgoritmalari\AramaAlgoritmalari\obj\Debug\AramaAlgoritma.csprojResolveAssemblyReference.cache
