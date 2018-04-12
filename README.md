@@ -1,5 +1,5 @@
-# AramaAlgoritmalari
-C sharp Form
+# Arama Algoritmaları
+C sharp Form ile hazırlanmıştır
 
 
 Kayıtlı Algoritmalar :
